@@ -1,0 +1,11 @@
+{
+  "device_type": "phone",
+  "capabilities": {
+    "platformName": "Android",
+    "platformVersion": "6.0.1",
+    "deviceName": "595a990e",
+    "appPackage": "hko.MyObservatory_v1_0",
+    "appActivity": ".AgreementPage",
+    "app": "../../app/hko.MyObservatory_v1_0_2017-06-19.apk"
+  }
+}
