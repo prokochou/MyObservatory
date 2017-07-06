@@ -1,11 +1,12 @@
 Environment
 ===========
-	Mac OSX 10.12.4 used
-  	Install Appium/appium-1.6.5.dmg (Install Appium step by step: http://www.automationtestinghub.com/appium-tutorial/) 
-	Install Java 1.8.0_73 (http://www.oracle.com/technetwork/java/javase/downloads/index.html)
-	Install Android SDK/Android Studio 1.5.1 (https://developer.android.com/studio/index.html)
+	1. Mac OSX 10.12.4 used
+  	2. Install Appium/appium-1.6.5.dmg (Install Appium step by step: http://www.automationtestinghub.com/appium-tutorial/) 
+	3. Install Java 1.8.0_73 (http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+	4. Install Android SDK/Android Studio 1.5.1 (https://developer.android.com/studio/index.html)
   	Note: Please add OS version in Appium OS settings: https://stackoverflow.com/questions/40129794/how-to-fix-error-could-not-detect-mac-os-x-version-from-sw-vers-output-10-12/40168992#40168992)
-	Testing Device: Samsung Galaxy S5
+	
+	5. Testing Device: Samsung Galaxy S5
 
 Setup for Test
 ==============
