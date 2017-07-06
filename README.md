@@ -23,7 +23,7 @@ Test
 ====
 Clone this github
 -----------------
-	$git clone https://github.com/prokochou/MyObservatory
+	$git clone hhttps://github.com/prokochou/MyObservatory.git
 
 Run Test
 -------------
