@@ -7,6 +7,10 @@ Environment
   	Note: Please add OS version in Appium OS settings: https://stackoverflow.com/questions/40129794/how-to-fix-error-could-not-detect-mac-os-x-version-from-sw-vers-output-10-12/40168992#40168992)
 	
 	5. Testing Device: Samsung Galaxy S5
+	
+Video Demo
+===========
+https://drive.google.com/open?id=0B25KWsTTUl7-SF9wNFlmYWd2aEU
 
 Setup for Test
 ==============
